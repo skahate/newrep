@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage("One") {
       steps {
-        echo "Hello"
+        echo "Hello This is Swapnil"
       }
     }
     stage("Two") {
