@@ -22,7 +22,7 @@ pipeline {
       // This will show what a skipped stage followed by an unskipped stage looks like in Blue Ocean
       steps {
         echo "Other World"
-      }
+      }t
     }
   }
 }
